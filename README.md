@@ -1,8 +1,12 @@
-### Hi there 👋
+# Hello Developers <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=akashdecoder&count_private=true&show_icons=true&layout=default&include_all_commits=true&theme=dark)
+
+## Public Profiles:
+
+### [**LinkedIn**](https://www.linkedin.com/company/dynamics-project-oriented-community)
 <!--
-**DynamicsProjectOrientedCommunity/DynamicsProjectOrientedCommunity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
